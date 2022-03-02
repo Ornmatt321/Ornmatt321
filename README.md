@@ -17,6 +17,7 @@ things Tech related!
 ### **Technical Skills**
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Ornmatt321)](https://github.com/Ornmatt321)
