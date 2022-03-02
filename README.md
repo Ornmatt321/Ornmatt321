@@ -1,9 +1,24 @@
 https://user-images.githubusercontent.com/93066427/156274681-09e92f54-edef-46f2-b908-ec69ea6dd6c8.mp4
-# Welcome!
 ## Some optional music for you to listen to while viewing!
 
-![image](https://user-images.githubusercontent.com/93066427/156274990-c0f2dcfd-5378-4a71-8f5a-afa24bba84b9.png)
+![ffvii-characters_edited-2](https://user-images.githubusercontent.com/93066427/156279762-503f2849-645c-4ba2-b2af-feb71c67972e.jpg)
 
+## **Hello!**
+My name is Matt and I am currently a Full-Stack Web Development student at Bloom Institute of Technology! I am also pursuing my 
+B.Sc in Information Technology! I enjoy many things that life has to offer, but nothing fascinates me more than learning new
+things Tech related!
 
+### **Languages I am Studying**
 
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+### **Technical Skills**
+
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Ornmatt321)](https://github.com/Ornmatt321)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ornmatt321&layout=compact)](https://github.com/Ornmatt321)
 
