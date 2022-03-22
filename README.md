@@ -19,10 +19,8 @@ things Tech related!
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![comptia-it-fundamentals-itf-certification (2)](https://user-images.githubusercontent.com/93066427/159533286-f040519f-15c9-4b5e-a8a5-b2df19c76ba0.png)
 
-
-
-![comptia-it-fundamentals-itf-certification](https://user-images.githubusercontent.com/93066427/159531842-25102a30-9ba4-4862-89ff-dd92190add7e.png)
 ![6-1C6-L63NN](https://user-images.githubusercontent.com/93066427/159531986-69a0e1fe-7181-4721-84a2-dac864b43a5f.png)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Ornmatt321)](https://github.com/Ornmatt321)
