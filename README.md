@@ -4,9 +4,8 @@ https://user-images.githubusercontent.com/93066427/156274681-09e92f54-edef-46f2-
 ![ffvii-characters_edited-2](https://user-images.githubusercontent.com/93066427/156279762-503f2849-645c-4ba2-b2af-feb71c67972e.jpg)
 
 ## **Hello!**
-My name is Matt and I am currently a Full-Stack Web Development student at Bloom Institute of Technology! I am also pursuing my 
-B.Sc in Information Technology! I enjoy many things that life has to offer, but nothing fascinates me more than learning new
-things Tech related!
+My name is Matt and I am currently a Full-Stack Web Development student at Bloom Institute of Technology and hold an AA in Information Technology! I am currently pursuing an Applied Science degree in Cyber Security as well. I enjoy many things that life has to offer, but nothing fascinates me more than learning new
+things that are Tech related!
 
 ### **Languages I am Studying**
 
